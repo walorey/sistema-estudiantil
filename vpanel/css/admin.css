@@ -1,0 +1,33 @@
+.barra{
+	background-color: #BDBDBD !important;
+	color: #BDBDBD !important;
+}
+h4{
+	color: #353232 !important;
+	font-family: 'Palanquin Dark', sans-serif !important;
+	margin-top: 13px;
+}
+.icono{
+	float: left !important;
+}
+.barrita{
+	width: 300px !important;
+}
+.linkss{
+	color: #353232 !important;
+}
+
+.asignar{
+	margin-top: 25px !important;
+}
+.configuracion{
+	width: 100px !important;
+}
+.barrabarra{
+	width: 180px !important;
+	height: 70px !important;
+}
+ .logno  span img{
+ 	width: 100%;
+	height: auto;
+ }

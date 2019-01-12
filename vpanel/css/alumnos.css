@@ -1,0 +1,28 @@
+.contenido{
+	background-color: #ffffff !important;
+	max-width: 850px !important;
+}
+
+
+ .user{
+ 	color: #2E2D2D !important;
+ 	font-family: 'Baloo', cursive;
+ 	font-size: 20px;
+ 	
+ }
+ .botones{
+ 	float: right !important;
+ }
+ .uss{
+ 	margin-top: 13px !important;
+ 	margin-right: 5px;
+
+ }
+ .bot{
+ 	margin-top: 7px !important;
+
+ }
+ .logo img{
+ 	width: 100%;
+	height: auto;
+ }
